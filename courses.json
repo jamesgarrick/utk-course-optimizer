@@ -1,0 +1,12 @@
+[
+  {
+    "code": "ACCT 502",
+    "title": "ACCT 502 - Registration for Use of Facilities",
+    "credit_hours": 15,
+    "description": "Required for the student not otherwise registered during any semester when student uses university facilities and/or faculty time before degree is completed.",
+    "creditRestriction": "May not be used toward degree requirements.",
+    "gradingRestriction": "Satisfactory/No Credit grading only.",
+    "registrationRestriction": "Minimum student level – graduate.",
+    "repeatability": "May be repeated."
+  }
+]

@@ -9,9 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@types/cheerio": "^0.22.35",
+    "cheerio": "^1.0.0",
+    "next": "15.3.0",
+    "p-limit": "^6.2.0",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "next": "15.3.0"
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "typescript": "^5",
